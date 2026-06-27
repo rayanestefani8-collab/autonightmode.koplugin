@@ -8,19 +8,19 @@ with support for light temperature and brightness control.
 
 ## ✨ Features
 
--   \*\*\*\*Automatic scheduling\*\*\*\* do modo noturno por horário
+-   **Automatic scheduling** do modo noturno por horário
     (ex: liga às 20:00, desliga às 07:00)
--   \*\*\*\*Support for schedules that cross midnight\*\*\*\* (ex: 22:00
+-   **Support for schedules that cross midnight** (ex: 22:00
     → 06:00)
--   \*\*\*\*Light temperature control\*\*\*\* (warmth) separado para
+-   **Light temperature control** (warmth) separado para
     período noturno e diurno --- apenas em dispositivos com luz quente
--   \*\*\*\*Brightness control\*\*\*\* separado para noite e dia ---
+-   **Brightness control** separado para noite e dia ---
     opcional
--   \*\*\*\*Does not interfere\*\*\*\* em outras configurações do
+-   **Does not interfere** em outras configurações do
     KOReader (cor de papel, tema de UI, etc.)
--   \*\*\*\*Compatible with any launcher\*\*\*\*: SimpleUI, ZenUI,
+-   **Compatible with any launcher**: SimpleUI, ZenUI,
     FileManager padrão, etc.
--   \*\*\*\*Compatible with any device\*\*\*\*: detecta com segurança se
+-   **Compatible with any device**: detecta com segurança se
     o hardware suporta luz quente ou frontlight antes de tentar usá-los
 -   Menu available at **Configurações → Tela → Auto Night Mode**
 -   Settings saved in a dedicated file (`autonightmode.lua`), separado
